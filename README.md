@@ -16,4 +16,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/santorar/qr)
-- Live Site URL: [Site](https://github.com/santorar/qr)
+- Live Site URL: [Hosted on vercel](https://github.com/santorar/qr](https://qrsite.vercel.app/)
